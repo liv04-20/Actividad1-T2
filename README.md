@@ -1,1 +1,3 @@
 # Actividad1-T2
+#LIVIA 16/01/2026
+#NO SE QUE HACER
